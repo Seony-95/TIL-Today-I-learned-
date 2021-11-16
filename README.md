@@ -16,3 +16,7 @@ https://dewworld27.tistory.com/
 
 2. 성장/공부방법/IT관련 툴 ( 아카이브 ) : IT 순한 맛 
 https://blog.naver.com/sun_star17
+
+### 참고자료
+1. 초보몽키님 TIL 참고
+https://wayhome25.github.io/til/2017/08/14/TIL-for-6-months/
