@@ -1,8 +1,9 @@
 # TIL-Today-I-learned-
 
 ### 기록 절차
-'오늘 한 일' 기록 
-
+- '오늘 한 일' 기록 
+- 마이루틴 APP으로 루틴 관리 중입니다.
+- 
 ### 블로그 기록 절차
 1. 개념정리하는 곳( 티스토리 )  : IT 매운 맛 
 https://dewworld27.tistory.com/
